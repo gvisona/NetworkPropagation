@@ -1,0 +1,8 @@
+data/
+.ipynb_checkpoints/
+outputs/
+EUGENE/
+PEGASUS/
+processed_data/
+job_*
+.Rhistory*
